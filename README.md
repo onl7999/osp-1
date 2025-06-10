@@ -1,6 +1,5 @@
-# 🚀 INSTALLATION INSTRUCTIONS
-
-## ✅ Requirements
+# INSTALLATION INSTRUCTIONS
+## Requirements
 
 Make sure your system has the following installed:
 
@@ -11,8 +10,6 @@ Make sure your system has the following installed:
 - PHP MySQL extension (`pdo_mysql`)
 
 ---
-
-## 🔧 Step-by-Step Setup
 
 ### 1. Install Apache2
 
@@ -48,7 +45,7 @@ sudo apt install git
 
 ---
 
-## 📁 Set Up the Project
+## Set Up the Project
 
 Navigate to the web server root directory:
 
@@ -71,7 +68,7 @@ sudo rm -rf osp-1
 
 ---
 
-## 🌐 Find Your Raspberry Pi's IP
+## Find  Raspberry Pi's IP
 
 ```bash
 hostname -I
@@ -82,7 +79,7 @@ Open a browser and visit:
 
 ---
 
-## 🛠️ Database Configuration
+## Database Configuration
 
 ### 1. Open the MariaDB Shell
 
@@ -153,13 +150,13 @@ Type `exit` to leave the MariaDB shell.
 
 ---
 
-## ✅ You're Done!
+## Done
 
 Open your browser and go to your Pi’s IP address (from `hostname -I`).
 
 ---
 
-## ❗ Troubleshooting
+## Troubleshooting
 
 **Error: “Could not find driver”**
 
