@@ -56,7 +56,7 @@ cd /var/www/html
 Clone the repository:
 
 ```bash
-git clone https://github.com/onl7999/osp-1
+git clone https://github.com/onl7999/osp-1/main
 ```
 
 Move the contents to the HTML root:
